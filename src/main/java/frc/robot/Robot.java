@@ -41,7 +41,7 @@ public class Robot extends TimedRobot {
   public void robotInit() {
     m_gyro.setSensitivity(kVoltsPerDegreePerSecond);
     //practice code
-    //secondary practice code
+    //secondary practice code (with revisions)
   }
 
   /**
