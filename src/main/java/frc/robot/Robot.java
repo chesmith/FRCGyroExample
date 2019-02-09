@@ -42,7 +42,7 @@ public class Robot extends TimedRobot {
     m_gyro.setSensitivity(kVoltsPerDegreePerSecond);
     //practice code
     //secondary practice code (with revisions)
-    //pathfinding code
+    //pathfinding code (with revisions)
   }
 
   /**
